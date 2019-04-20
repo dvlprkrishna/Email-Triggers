@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+	<table width="${1:600}" cellspacing="0" cellpadding="0" border="0" align="center">
+		<tr>
+			$0	
+		</tr>
+	</table>
+	]]></content>
+	<tabTrigger>addtable</tabTrigger>
+    <scope>text.html</scope>
+    <description>Inserts Table tag with useful attr type "addtable" and ctrl+spacebar</description>
+</snippet>

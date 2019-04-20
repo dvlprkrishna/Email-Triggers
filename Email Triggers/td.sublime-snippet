@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+		<td width="${1:600}" height="${2:10}" valign="${3:top}" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; line-height:15px; color:#585858;${4:}">$5</td>$0
+	]]></content>
+	<tabTrigger>addtd</tabTrigger>
+	<scope>text.html</scope>
+	<description>Inserts Td tag with useful attr type "addtd" and ctrl+spacebar</description>
+</snippet>
