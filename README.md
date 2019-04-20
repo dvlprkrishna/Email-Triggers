@@ -13,7 +13,7 @@ Guide to create you own snippets → [here](https://medium.freecodecamp.org/a-gu
 Code will be inserted by typing shortcut text like ```addtd``` and pressing either ```tab``` or ```ctrl``` + ```Space bar``` key
 
 
-```addtable``` will insert a  td tag like below
+```addtable``` will insert a table tag like below
 
 ```html
 <table width="600" cellspacing="0" cellpadding="0" border="0" align="center">
@@ -24,14 +24,14 @@ Code will be inserted by typing shortcut text like ```addtd``` and pressing eith
 ```
 
 
-```addtd``` will insert a  table tag like below
+```addtd``` will insert a td tag like below
 
 ```html
 <td width="600" height="10" valign="top" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; line-height:15px; color:#585858;"></td>
 ```
 
 
-```addlink``` will insert an anchor table tag like below
+```addlink``` will insert an anchor link tag like below
 
 ```html
 <a href="#" target="_blank" style="" alias=""></a>
